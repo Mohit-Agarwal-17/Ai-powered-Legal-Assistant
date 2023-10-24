@@ -1,4 +1,4 @@
-AI-Powered Legal Assistant 🤖📚🗣️
+
 Welcome to the AI-Powered Legal Assistant project! This innovative LL.M. project combines cutting-edge techniques in Knowledge-Based Embedding with Voice Command functionality, revolutionizing legal support.
 
 🌟 Features
