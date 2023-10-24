@@ -9,4 +9,5 @@ Intuitive User Interface: User-friendly design for an engaging and efficient exp
 
 The link for the model i used:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
 I used the llama-2-7b-chat.ggmlv3.q4_0 version
