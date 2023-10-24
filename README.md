@@ -5,4 +5,4 @@ Welcome to the AI-Powered Legal Assistant project! This innovative LL.M. project
 
 The link for the model i used: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
-I used the llama-2-7b-chat.ggmlv3.q4_0 version
+I used the 'llama-2-7b-chat.ggmlv3.q4_0' version
